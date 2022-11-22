@@ -1,0 +1,10 @@
+ region             = "us-east-1"
+ sslcertificate    = "arn:aws:acm:us-east-1:564141216590:certificate/3a2f0d25-ab5e-4c2f-9849-45509c87ff89"
+ project            = "ultima1"
+ port               = "9332"
+ cpu                = "1024"
+ memory             = "2048"
+ image              = "docker.plcu.io/plc-vvv-node:3.13"
+
+
+
